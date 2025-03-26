@@ -1,0 +1,1 @@
+# Automated Document Scanner using OpenCV
